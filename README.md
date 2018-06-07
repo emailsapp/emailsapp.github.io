@@ -23,3 +23,33 @@ A static site with data about various email service providers, email application
 - Fork this [repository](https://github.com/emailsapp/emailsapp.github.io) and submit a PR with the website code after starting work on [Gitcoin Bounty](https://gitcoin.co/issue/emailsapp/emailsapp.github.io/1/546).
 
 Suggestions are welcome to improve the scope of the work or the idea.
+
+## Contributing
+
+#### Adding/Editing entries
+
+* Open the [data](data/app-data.json) file.
+* Refer this JSON skeleton for ease 
+```js
+{
+    "name": '',
+    "owner": '',
+    "location": '',
+    "released": '',
+    "cost": '',
+    "mailbox-storage": '',
+    "max-attachment-limit": '',
+    "supported-languages": '',
+    "POP3-support": '',
+    "IMAP-support": '',
+    "SMTP-support": '',
+    "cryptographic-protocol": '',
+    "account-expiration": '',
+    "own-domain": '',
+    "tor-gateway-available": "",
+    "tor-browser-allowed": "",
+    "proxy-gateway-available": ""
+}
+```
+* Commit your changes.
+* Make a Pull Request.
