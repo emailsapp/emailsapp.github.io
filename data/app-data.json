@@ -1,5 +1,5 @@
 {
-	"AQL Mail": {
+	"aqlMail": {
 		"name": "AQL Mail",
 		"owner": "AQL Inc.",
 		"location": "",
@@ -18,7 +18,7 @@
 		"tor-browser-allowed": "Unknown",
 		"proxy-gateway-available": "Unknown"
 	},
-	"FastMail": {
+	"fastMail": {
 		"name": "FastMail",
 		"owner": "Fastmail Pty Ltd",
 		"location": "Australia (servers are in US)",
@@ -37,7 +37,7 @@
 		"tor-browser-allowed": "Unknown",
 		"proxy-gateway-available": "Yes"
 	},
-	"Gmail": {
+	"gmail": {
 		"name": "Gmail",
 		"owner": "Google LLC",
 		"location": "",
@@ -56,7 +56,7 @@
 		"tor-browser-allowed": "No",
 		"proxy-gateway-available": "No"
 	},
-	"GMX Mail": {
+	"gmxMail": {
 		"name": "GMX Mail",
 		"owner": "United Internet AG",
 		"location": "Germany",
@@ -75,7 +75,7 @@
 		"tor-browser-allowed": "No",
 		"proxy-gateway-available": "Unknown"
 	},
-	"Hushmail": {
+	"hushMail": {
 		"name": "Hushmail",
 		"owner": "Hush Communications Ltd.",
 		"location": "Canada",
@@ -113,7 +113,7 @@
 		"tor-browser-allowed": "Unknown",
 		"proxy-gateway-available": "Unknown"
 	},
-	"Lycos": {
+	"lycos": {
 		"name": "Lycos",
 		"owner": "Lycos, Inc.",
 		"location": "",
@@ -132,7 +132,7 @@
 		"tor-browser-allowed": "Unknown",
 		"proxy-gateway-available": "Unknown"
 	},
-	"Mail.com": {
+	"mail.com": {
 		"name": "Mail.com",
 		"owner": "United Internet AG",
 		"location": "",
@@ -151,7 +151,7 @@
 		"tor-browser-allowed": "No",
 		"proxy-gateway-available": "Unknown"
 	},
-	"Mail.ru": {
+	"mail.ru": {
 		"name": "Mail.ru",
 		"owner": "Mail.ru",
 		"location": "Russia",
@@ -170,7 +170,7 @@
 		"tor-browser-allowed": "Unknown",
 		"proxy-gateway-available": "Unknown"
 	},
-	"Mailfence": {
+	"mailfence": {
 		"name": "Mailfence",
 		"owner": "ContactOffice Group",
 		"location": "Belgium",
@@ -189,7 +189,7 @@
 		"tor-browser-allowed": "Yes",
 		"proxy-gateway-available": "No"
 	},
-	"Outlook.com": {
+	"outlook.com": {
 		"name": "Outlook.com",
 		"owner": "Microsoft",
 		"location": "",
@@ -208,7 +208,7 @@
 		"tor-browser-allowed": "Unknown",
 		"proxy-gateway-available": "Unknown"
 	},
-	"ProtonMail": {
+	"protonMail": {
 		"name": "ProtonMail",
 		"owner": "Proton Technologies AG",
 		"location": "Switzerland",
@@ -227,7 +227,7 @@
 		"tor-browser-allowed": "No, JS required",
 		"proxy-gateway-available": "No"
 	},
-	"Rediffmail": {
+	"rediffmail": {
 		"name": "Rediffmail",
 		"owner": "Rediff",
 		"location": "",
@@ -246,7 +246,7 @@
 		"tor-browser-allowed": "Yes",
 		"proxy-gateway-available": "Unknown"
 	},
-	"Runbox": {
+	"runbox": {
 		"name": "Runbox",
 		"owner": "Runbox Solutions AS",
 		"location": "Norway",
@@ -265,7 +265,7 @@
 		"tor-browser-allowed": "Yes",
 		"proxy-gateway-available": "Unknown"
 	},
-	"Tutanota": {
+	"tutanota": {
 		"name": "Tutanota",
 		"owner": "Tutao GmbH",
 		"location": "Germany",
@@ -284,7 +284,7 @@
 		"tor-browser-allowed": "No, JS required",
 		"proxy-gateway-available": "No"
 	},
-	"Yahoo! Mail": {
+	"yahooMail": {
 		"name": "Yahoo! Mail",
 		"owner": "Yahoo!",
 		"location": "",
@@ -303,7 +303,7 @@
 		"tor-browser-allowed": "Unknown",
 		"proxy-gateway-available": "Unknown"
 	},
-	"Yandex Mail": {
+	"yandexMail": {
 		"name": "Yandex Mail",
 		"owner": "Yandex LLC",
 		"location": "",
@@ -322,7 +322,7 @@
 		"tor-browser-allowed": "Yes",
 		"proxy-gateway-available": "Unknown"
 	},
-	"Zoho": {
+	"zoho": {
 		"name": "Zoho",
 		"owner": "ZOHO Corporation",
 		"location": "",
