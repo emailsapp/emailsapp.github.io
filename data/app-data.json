@@ -1,7 +1,7 @@
 {
-	"aqlMail": {
-		"name": "AQL Mail",
-		"owner": "AQL Inc.",
+	"aolMail": {
+		"name": "AOL Mail",
+		"owner": "AOL Inc.",
 		"location": "",
 		"released": "1993, Mar",
 		"cost": "Free (Ad)",
@@ -16,7 +16,10 @@
 		"own-domain": "",
 		"tor-gateway-available": "No",
 		"tor-browser-allowed": "Unknown",
-		"proxy-gateway-available": "Unknown"
+		"proxy-gateway-available": "Unknown",
+		"url": "https://mail.aol.co.uk/",
+		"pricing-link": "",
+		"privacy-link": "https://privacy.aol.com/legacy/"
 	},
 	"fastMail": {
 		"name": "FastMail",
@@ -35,7 +38,10 @@
 		"own-domain": "Yes, Standard and Professional plans",
 		"tor-gateway-available": "No",
 		"tor-browser-allowed": "Unknown",
-		"proxy-gateway-available": "Yes"
+		"proxy-gateway-available": "Yes",
+		"url": "https://www.fastmail.com/",
+		"pricing-link": "https://www.fastmail.com/pricing/",
+		"privacy-link": "https://www.fastmail.com/about/privacy.html"
 	},
 	"gmail": {
 		"name": "Gmail",
@@ -54,7 +60,10 @@
 		"own-domain": "Yes, for $5/user/month option only",
 		"tor-gateway-available": "No",
 		"tor-browser-allowed": "No",
-		"proxy-gateway-available": "No"
+		"proxy-gateway-available": "No",
+		"url": "https://www.google.com/gmail/",
+		"pricing-link": "",
+		"privacy-link": "https://privacy.google.com/take-control.html"
 	},
 	"gmxMail": {
 		"name": "GMX Mail",
@@ -73,7 +82,10 @@
 		"own-domain": "",
 		"tor-gateway-available": "No",
 		"tor-browser-allowed": "No",
-		"proxy-gateway-available": "Unknown"
+		"proxy-gateway-available": "Unknown",
+		"url": "https://www.gmx.com/",
+		"pricing-link": "",
+		"privacy-link": "https://www.gmx.com/company/privacypolicy/"
 	},
 	"hushMail": {
 		"name": "Hushmail",
@@ -92,7 +104,10 @@
 		"own-domain": "Yes",
 		"tor-gateway-available": "No",
 		"tor-browser-allowed": "Unknown",
-		"proxy-gateway-available": "Unknown"
+		"proxy-gateway-available": "Unknown",
+		"url": "https://www.hushmail.com/",
+		"pricing-link": "https://www.hushmail.com/business/",
+		"privacy-link": "https://www.hushmail.com/privacy/"
 	},
 	"iCloud": {
 		"name": "iCloud",
@@ -111,7 +126,10 @@
 		"own-domain": "",
 		"tor-gateway-available": "No",
 		"tor-browser-allowed": "Unknown",
-		"proxy-gateway-available": "Unknown"
+		"proxy-gateway-available": "Unknown",
+		"url": "https://www.icloud.com/",
+		"pricing-link": "https://support.apple.com/en-in/HT201238",
+		"privacy-link": "https://www.apple.com/in/privacy/manage-your-privacy/"
 	},
 	"lycos": {
 		"name": "Lycos",
@@ -130,7 +148,10 @@
 		"own-domain": "",
 		"tor-gateway-available": "No",
 		"tor-browser-allowed": "Unknown",
-		"proxy-gateway-available": "Unknown"
+		"proxy-gateway-available": "Unknown",
+		"url": "https://mail.lycos.com/",
+		"pricing-link": "",
+		"privacy-link": ""
 	},
 	"mail.com": {
 		"name": "Mail.com",
@@ -149,7 +170,10 @@
 		"own-domain": "",
 		"tor-gateway-available": "No",
 		"tor-browser-allowed": "No",
-		"proxy-gateway-available": "Unknown"
+		"proxy-gateway-available": "Unknown",
+		"url": "https://www.mail.com/",
+		"pricing-link": "https://www.mail.com/mail/email-account/",
+		"privacy-link": "https://www.mail.com/company/privacypolicy/#.2068504-footer-nav1-3"
 	},
 	"mail.ru": {
 		"name": "Mail.ru",
@@ -168,7 +192,10 @@
 		"own-domain": "Yes",
 		"tor-gateway-available": "No",
 		"tor-browser-allowed": "Unknown",
-		"proxy-gateway-available": "Unknown"
+		"proxy-gateway-available": "Unknown",
+		"url": "https://mail.ru/",
+		"pricing-link": "",
+		"privacy-link": ""
 	},
 	"mailfence": {
 		"name": "Mailfence",
@@ -187,7 +214,10 @@
 		"own-domain": "Yes, for paying accounts",
 		"tor-gateway-available": "No",
 		"tor-browser-allowed": "Yes",
-		"proxy-gateway-available": "No"
+		"proxy-gateway-available": "No",
+		"url": "https://mailfence.com/en/",
+		"pricing-link": "https://mailfence.com/en/",
+		"privacy-link": "https://mailfence.com/en/privacy.jsp"
 	},
 	"outlook.com": {
 		"name": "Outlook.com",
@@ -206,7 +236,10 @@
 		"own-domain": "Premium Only",
 		"tor-gateway-available": "No",
 		"tor-browser-allowed": "Unknown",
-		"proxy-gateway-available": "Unknown"
+		"proxy-gateway-available": "Unknown",
+		"url": "https://outlook.live.com/",
+		"pricing-link": "https://premium.outlook.com/",
+		"privacy-link": "https://privacy.microsoft.com/en-us/privacystatement"
 	},
 	"protonMail": {
 		"name": "ProtonMail",
@@ -225,7 +258,10 @@
 		"own-domain": "Yes, for premium accounts",
 		"tor-gateway-available": "Yes",
 		"tor-browser-allowed": "No, JS required",
-		"proxy-gateway-available": "No"
+		"proxy-gateway-available": "No",
+		"url": "https://protonmail.com/",
+		"pricing-link": "https://protonmail.com/pricing",
+		"privacy-link": "https://protonmail.com/privacy-policy"
 	},
 	"rediffmail": {
 		"name": "Rediffmail",
@@ -244,7 +280,10 @@
 		"own-domain": "",
 		"tor-gateway-available": "No",
 		"tor-browser-allowed": "Yes",
-		"proxy-gateway-available": "Unknown"
+		"proxy-gateway-available": "Unknown",
+		"url": "https://mail.rediff.com/cgi-bin/login.cgi",
+		"pricing-link": "https://businessemail.rediff.com/product-plans",
+		"privacy-link": "http://www.rediff.com/w3c/policy.html"
 	},
 	"runbox": {
 		"name": "Runbox",
@@ -263,7 +302,10 @@
 		"own-domain": "yes",
 		"tor-gateway-available": "No",
 		"tor-browser-allowed": "Yes",
-		"proxy-gateway-available": "Unknown"
+		"proxy-gateway-available": "Unknown",
+		"url": "https://runbox.com/",
+		"pricing-link": "https://runbox.com/price-plans/",
+		"privacy-link": "https://runbox.com/about/privacy-policy/"
 	},
 	"tutanota": {
 		"name": "Tutanota",
@@ -282,7 +324,10 @@
 		"own-domain": "For premium accounts",
 		"tor-gateway-available": "No",
 		"tor-browser-allowed": "No, JS required",
-		"proxy-gateway-available": "No"
+		"proxy-gateway-available": "No",
+		"url": "https://tutanota.com/",
+		"pricing-link": "https://tutanota.com/pricing",
+		"privacy-link": "https://tutanota.com/terms#privacy"
 	},
 	"yahooMail": {
 		"name": "Yahoo! Mail",
@@ -301,7 +346,10 @@
 		"own-domain": "",
 		"tor-gateway-available": "No",
 		"tor-browser-allowed": "Unknown",
-		"proxy-gateway-available": "Unknown"
+		"proxy-gateway-available": "Unknown",
+		"url": "https://login.yahoo.com/",
+		"pricing-link": "https://pro.mail.yahoo.com/",
+		"privacy-link": "https://smallbusiness.yahoo.com/privacy-policy"
 	},
 	"yandexMail": {
 		"name": "Yandex Mail",
@@ -320,7 +368,10 @@
 		"own-domain": "Yes",
 		"tor-gateway-available": "No",
 		"tor-browser-allowed": "Yes",
-		"proxy-gateway-available": "Unknown"
+		"proxy-gateway-available": "Unknown",
+		"url": "https://mail.yandex.com/",
+		"pricing-link": "",
+		"privacy-link": "https://legal.yandex.com/privacy/"
 	},
 	"zoho": {
 		"name": "Zoho",
@@ -339,6 +390,9 @@
 		"own-domain": "Yes (free up to 25 users)",
 		"tor-gateway-available": "No",
 		"tor-browser-allowed": "Unknown",
-		"proxy-gateway-available": "Unknown"
+		"proxy-gateway-available": "Unknown",
+		"url": "https://www.zoho.com/mail/",
+		"pricing-link": "https://www.zoho.com/workplace/pricing.html",
+		"privacy-link": "https://www.zoho.com/privacy.html"
 	}
 }
