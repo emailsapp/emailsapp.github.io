@@ -49,6 +49,9 @@ Suggestions are welcome to improve the scope of the work or the idea.
     "tor-gateway-available": "",
     "tor-browser-allowed": "",
     "proxy-gateway-available": ""
+    "url": "",
+    "pricing-link": "",
+    "privacy-link": ""
 }
 ```
 * Commit your changes.
