@@ -1,0 +1,58 @@
+{
+	"gmail": {
+		"name": "Gmail",
+		"link": "https://play.google.com/store/apps/details?id=com.google.android.gm",
+		"downloads": "1,000,000,000+",
+		"rating": "4.3",
+		"owner": "Google LLC"
+	},
+	"fastMail": {
+		"name": "Fast mail",
+		"link": "https://play.google.com/store/apps/details?id=com.appple.app.email",
+		"downloads": "5,000,000+",
+		"rating": "4.4",
+		"owner": "Green Apple Studio"
+	},
+	"outlook": {
+		"name": "Outlook",
+		"link": "https://play.google.com/store/apps/details?id=com.microsoft.office.outlook",
+		"downloads": "100,000,000+",
+		"rating": "4.3",
+		"owner": "Microsoft"
+	},
+	"yahooMail": {
+		"name": "Yahoo Mail",
+		"link": "https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.mail",
+		"downloads": "100,000,000+",
+		"rating": "4.3",
+		"owner": "Yahoo"
+	},
+	"mailRu": {
+		"name": "Mail.RU",
+		"link": "https://play.google.com/store/apps/details?id=ru.mail.mailapp",
+		"downloads": "50,000,000+",
+		"rating": "4.6",
+		"owner": "Mail.Ru Group"
+	},
+	"mail.com": {
+		"name": "mail.com",
+		"link": "https://play.google.com/store/apps/details?id=com.mail.mobile.android.mail",
+		"downloads": "1,000,000+",
+		"rating": "4.2",
+		"owner": "! & 1 Mail & Media Inc"
+	},
+	"protonMail": {
+		"name": "ProtonMail",
+		"link": "https://play.google.com/store/apps/details?id=ch.protonmail.android",
+		"downloads": "1,000,000+",
+		"rating": "4.6",
+		"owner": "ProtonMail"
+	},
+	"zohoMail": {
+		"name": "Zoho Mail",
+		"link": "https://play.google.com/store/apps/details?id=com.zoho.mail",
+		"downloads": "500,000+",
+		"rating": "4.2",
+		"owner": "Zoho Corporation"
+	}
+}

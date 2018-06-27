@@ -1,0 +1,50 @@
+{
+	"mailu": {
+		"name": "Mailu",
+		"link": "https://mailu.io/",
+		"smtp": "Yes",
+		"antispam": "Yes",
+		"imap": "Yes",
+		"pop3": ""
+	},
+	"mailInABox": {
+		"name": "Mail-in-a-Box",
+		"link": "https://mailinabox.email/",
+		"smtp": "Yes",
+		"antispam": "",
+		"imap": "Yes",
+		"pop3": ""
+	},
+	"modoboa": {
+		"name": "modoboa",
+		"link": "https://modoboa.org/en/",
+		"smtp": "Yes",
+		"antispam": "",
+		"imap": "Yes",
+		"pop3": ""
+	},
+	"postal": {
+		"name": "postal",
+		"link": "https://github.com/atech/postal",
+		"smtp": "Yes",
+		"antispam": "",
+		"imap": "Yes",
+		"pop3": ""
+	},
+	"iRedMail": {
+		"name": "iRedMail",
+		"link": "https://www.iredmail.org/index.html",
+		"smtp": "Yes",
+		"antispam": "Yes",
+		"imap": "Yes",
+		"pop3": "Yes"
+	},
+	"homebox": {
+		"name": "homebox",
+		"link": "https://github.com/progmaticltd/homebox",
+		"smtp": "",
+		"antispam": "Yes",
+		"imap": "Yes",
+		"pop3": "Yes"
+	},
+}
