@@ -23,3 +23,8 @@ A static site with data about various email service providers, email application
 - Fork this [repository](https://github.com/emailsapp/emailsapp.github.io) and submit a PR with the website code after starting work on [Gitcoin Bounty](https://gitcoin.co/issue/emailsapp/emailsapp.github.io/1/546).
 
 Suggestions are welcome to improve the scope of the work or the idea.
+
+
+## Contributing
+
+Check [CONTRIBUTING.md](CONTRIBUTING.md)

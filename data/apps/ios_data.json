@@ -1,0 +1,51 @@
+{
+	"gmail": {
+		"name": "Gmail",
+		"link": "https://itunes.apple.com/us/app/gmail-email-by-google/id422689480?mt=8",
+		"privacy": "https://privacy.google.com/",
+		"rating": "4.5",
+		"owner": "Google LLC"
+	},
+	"outlook": {
+		"name": "Outlook",
+		"link": "https://itunes.apple.com/us/app/microsoft-outlook/id951937596?mt=8",
+		"privacy": "https://bit.ly/outlookprivacy",
+		"rating": "4.7",
+		"owner": "Microsoft"
+	},
+	"yahooMail": {
+		"name": "Yahoo Mail",
+		"link": "https://itunes.apple.com/us/app/yahoo-mail/id577586159?mt=8",
+		"privacy": "http://info.yahoo.com/privacy/ios/yahoo/us/",
+		"rating": "4.6",
+		"owner": "Yahoo"
+	},
+	"mailRu": {
+		"name": "Mail.RU",
+		"link": "https://itunes.apple.com/us/app/mail-ru-email-app/id511310430?mt=8",
+		"privacy": "http://help.mail.ru/mail-help/UA",
+		"rating": "4.8",
+		"owner": "Mail.Ru Group"
+	},
+	"mail.com": {
+		"name": "mail.com",
+		"link": "https://itunes.apple.com/in/app/mail-com/id461316429?mt=8",
+		"privacy": "https://www.mail.com/int/company/privacypolicy/",
+		"rating": "4.3",
+		"owner": "1 & 1 Mail & Media Inc"
+	},
+	"protonMail": {
+		"name": "ProtonMail",
+		"link": "https://itunes.apple.com/in/app/protonmail-encrypted-email/id979659905?mt=8",
+		"privacy": "https://protonmail.com/privacy-policy",
+		"rating": "4.1",
+		"owner": "ProtonMail"
+	},
+	"zohoMail": {
+		"name": "Zoho Mail",
+		"link": "https://itunes.apple.com/in/app/zoho-mail-email-and-calendar/id909262651?mt=8",
+		"privacy": "http://zoho.com/privacy.html",
+		"rating": "4.4",
+		"owner": "Zoho Corporation"
+	}
+}
