@@ -24,35 +24,7 @@ A static site with data about various email service providers, email application
 
 Suggestions are welcome to improve the scope of the work or the idea.
 
+
 ## Contributing
 
-#### Adding/Editing entries
-
-* Open the [data](data/app-data.json) file.
-* Refer this JSON skeleton for ease 
-```js
-{
-    "name": '',
-    "owner": '',
-    "location": '',
-    "released": '',
-    "cost": '',
-    "mailbox-storage": '',
-    "max-attachment-limit": '',
-    "supported-languages": '',
-    "POP3-support": '',
-    "IMAP-support": '',
-    "SMTP-support": '',
-    "cryptographic-protocol": '',
-    "account-expiration": '',
-    "own-domain": '',
-    "tor-gateway-available": "",
-    "tor-browser-allowed": "",
-    "proxy-gateway-available": ""
-    "url": "",
-    "pricing-link": "",
-    "privacy-link": ""
-}
-```
-* Commit your changes.
-* Make a Pull Request.
+Check [CONTRIBUTING.md](CONTRIBUTING.md)
